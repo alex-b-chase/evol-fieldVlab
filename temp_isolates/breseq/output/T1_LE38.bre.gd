@@ -1,0 +1,621 @@
+#=GENOME_DIFF	1.0
+#=CREATED	13:01:33 29 Jan 2026
+#=PROGRAM	breseq 0.38.3 
+#=COMMAND	breseq -j 8 -r /projects/abchase/soil/soil/curto/curtoWarm/refgenome/MMLR14_002/MMLR14_002.gbk -o /projects/abchase/soil/soil/curto/curtoWarm/temp_isolates/breseq/T1_LE38 /projects/abchase/soil/soil/curto/curtoWarm/temp_isolates/filteredreads/T1_LE38.filter.clean.R1.fq.gz /projects/abchase/soil/soil/curto/curtoWarm/temp_isolates/filteredreads/T1_LE38.filter.clean.R2.fq.gz
+#=REFSEQ	/projects/abchase/soil/soil/curto/curtoWarm/refgenome/MMLR14_002/MMLR14_002.gbk
+#=READSEQ	/projects/abchase/soil/soil/curto/curtoWarm/temp_isolates/filteredreads/T1_LE38.filter.clean.R1.fq.gz
+#=READSEQ	/projects/abchase/soil/soil/curto/curtoWarm/temp_isolates/filteredreads/T1_LE38.filter.clean.R2.fq.gz
+#=CONVERTED-BASES	191222846
+#=CONVERTED-READS	1424455
+#=INPUT-BASES	191240913
+#=INPUT-READS	1424624
+#=MAPPED-BASES	190627201
+#=MAPPED-READS	1419743
+SNP	1	10	contig_0	341184	G
+DEL	2	48	contig_0	473250	6	repeat_length=6	repeat_new_copies=3	repeat_ref_copies=4	repeat_seq=GGCACC
+DEL	3	11	contig_0	1292159	1	repeat_length=1	repeat_new_copies=6	repeat_ref_copies=7	repeat_seq=G
+DEL	4	12	contig_0	1292187	1	repeat_length=1	repeat_new_copies=6	repeat_ref_copies=7	repeat_seq=G
+DEL	5	13	contig_0	2126799	1	repeat_length=1	repeat_new_copies=10	repeat_ref_copies=11	repeat_seq=G
+SNP	6	14	contig_0	2224384	A
+SNP	7	15	contig_0	2321563	A
+SNP	8	16	contig_0	2332350	C
+SNP	9	17	contig_0	2494986	C
+RA	10	.	contig_0	341184	0	T	G	consensus_score=261.9	frequency=1	major_base=G	major_cov=28/34	major_frequency=1.000e+00	minor_base=N	minor_cov=0/0	new_cov=28/34	polymorphism_frequency=1.000e+00	polymorphism_score=NA	prediction=consensus	ref_cov=0/0	total_cov=28/34
+RA	11	.	contig_0	1292159	0	G	.	consensus_score=114.4	frequency=1	major_base=.	major_cov=19/4	major_frequency=1.000e+00	minor_base=N	minor_cov=0/0	new_cov=19/4	polymorphism_frequency=1.000e+00	polymorphism_score=NA	prediction=consensus	ref_cov=0/0	total_cov=19/4
+RA	12	.	contig_0	1292187	0	G	.	consensus_score=114.6	frequency=1	major_base=.	major_cov=22/0	major_frequency=1.000e+00	minor_base=N	minor_cov=0/0	new_cov=22/0	polymorphism_frequency=1.000e+00	polymorphism_score=NA	prediction=consensus	ref_cov=0/0	total_cov=22/0
+RA	13	.	contig_0	2126799	0	G	.	consensus_score=59.6	frequency=1	major_base=.	major_cov=12/0	major_frequency=1.000e+00	minor_base=N	minor_cov=0/0	new_cov=12/0	polymorphism_frequency=1.000e+00	polymorphism_score=NA	prediction=consensus	ref_cov=0/0	total_cov=12/0
+RA	14	.	contig_0	2224384	0	G	A	bias_e_value=3773870	bias_p_value=1	consensus_score=150.9	fisher_strand_p_value=1	frequency=1	ks_quality_p_value=1	major_base=A	major_cov=22/18	major_frequency=9.756e-01	minor_base=C	minor_cov=1/0	new_cov=22/18	polymorphism_frequency=9.756e-01	polymorphism_score=NA	prediction=consensus	ref_cov=0/0	total_cov=23/18
+RA	15	.	contig_0	2321563	0	G	A	consensus_score=233.6	frequency=1	major_base=A	major_cov=33/30	major_frequency=1.000e+00	minor_base=N	minor_cov=0/0	new_cov=33/30	polymorphism_frequency=1.000e+00	polymorphism_score=NA	prediction=consensus	ref_cov=0/0	total_cov=33/30
+RA	16	.	contig_0	2332350	0	G	C	consensus_score=304.6	frequency=1	major_base=C	major_cov=30/42	major_frequency=1.000e+00	minor_base=N	minor_cov=0/0	new_cov=30/42	polymorphism_frequency=1.000e+00	polymorphism_score=NA	prediction=consensus	ref_cov=0/0	total_cov=30/42
+RA	17	.	contig_0	2494986	0	G	C	consensus_score=170.3	frequency=1	major_base=C	major_cov=18/23	major_frequency=1.000e+00	minor_base=N	minor_cov=0/0	new_cov=18/23	polymorphism_frequency=1.000e+00	polymorphism_score=NA	prediction=consensus	ref_cov=0/0	total_cov=18/23
+RA	18	.	contig_0	2968213	0	G	.	bias_e_value=3037430	bias_p_value=0.804858	consensus_reject=FREQUENCY_CUTOFF	consensus_score=17.1	fisher_strand_p_value=0.444444	frequency=4.444e-01	ks_quality_p_value=1	major_base=G	major_cov=5/0	major_frequency=5.556e-01	minor_base=.	minor_cov=3/1	new_cov=3/1	polymorphism_frequency=4.444e-01	polymorphism_score=14.2	prediction=polymorphism	ref_cov=5/0	total_cov=8/1
+MC	19	.	contig_0	1	24731	0	14294	left_inside_cov=0	left_outside_cov=NA	right_inside_cov=10	right_outside_cov=13
+MC	20	.	contig_0	176047	176198	0	0	left_inside_cov=11	left_outside_cov=12	right_inside_cov=11	right_outside_cov=12
+MC	21	.	contig_0	351722	352003	0	0	left_inside_cov=11	left_outside_cov=12	right_inside_cov=11	right_outside_cov=13
+MC	22	.	contig_0	474096	474378	0	0	left_inside_cov=11	left_outside_cov=13	right_inside_cov=11	right_outside_cov=12
+MC	23	.	contig_0	558804	559004	0	0	left_inside_cov=11	left_outside_cov=12	right_inside_cov=10	right_outside_cov=12
+MC	24	.	contig_0	742370	742509	0	0	left_inside_cov=11	left_outside_cov=12	right_inside_cov=11	right_outside_cov=17
+MC	25	.	contig_0	1037335	1037680	0	0	left_inside_cov=9	left_outside_cov=12	right_inside_cov=9	right_outside_cov=12
+MC	26	.	contig_0	1184000	1184115	0	0	left_inside_cov=11	left_outside_cov=13	right_inside_cov=11	right_outside_cov=12
+MC	27	.	contig_0	1238494	1238543	0	0	left_inside_cov=10	left_outside_cov=12	right_inside_cov=11	right_outside_cov=12
+MC	28	.	contig_0	1332685	1332761	0	0	left_inside_cov=11	left_outside_cov=15	right_inside_cov=11	right_outside_cov=13
+MC	29	.	contig_0	1503905	1503944	0	0	left_inside_cov=9	left_outside_cov=13	right_inside_cov=11	right_outside_cov=13
+MC	30	.	contig_0	1623679	1623742	0	0	left_inside_cov=9	left_outside_cov=12	right_inside_cov=11	right_outside_cov=12
+MC	31	.	contig_0	1635186	1635268	0	0	left_inside_cov=11	left_outside_cov=12	right_inside_cov=9	right_outside_cov=12
+MC	32	.	contig_0	1723010	1723108	0	0	left_inside_cov=11	left_outside_cov=12	right_inside_cov=11	right_outside_cov=12
+MC	33	.	contig_0	2394126	2394252	0	0	left_inside_cov=9	left_outside_cov=13	right_inside_cov=11	right_outside_cov=12
+MC	34	.	contig_0	2497944	2498018	0	0	left_inside_cov=11	left_outside_cov=12	right_inside_cov=11	right_outside_cov=12
+MC	35	.	contig_0	2892635	2892656	0	0	left_inside_cov=5	left_outside_cov=12	right_inside_cov=4	right_outside_cov=14
+MC	36	.	contig_0	2897639	2897683	0	0	left_inside_cov=11	left_outside_cov=17	right_inside_cov=9	right_outside_cov=12
+MC	37	.	contig_0	3208145	3208181	0	0	left_inside_cov=11	left_outside_cov=13	right_inside_cov=9	right_outside_cov=12
+MC	38	.	contig_0	3282000	3282119	0	0	left_inside_cov=11	left_outside_cov=12	right_inside_cov=10	right_outside_cov=13
+MC	39	.	contig_0	3285663	3285695	0	0	left_inside_cov=9	left_outside_cov=12	right_inside_cov=3	right_outside_cov=12
+MC	40	.	contig_0	3288630	3288838	0	0	left_inside_cov=11	left_outside_cov=12	right_inside_cov=9	right_outside_cov=12
+MC	41	.	contig_0	3337893	3337939	0	0	left_inside_cov=11	left_outside_cov=13	right_inside_cov=11	right_outside_cov=14
+MC	42	.	contig_0	3481039	3481137	0	0	left_inside_cov=5	left_outside_cov=17	right_inside_cov=9	right_outside_cov=13
+MC	43	.	contig_0	3647682	3647846	0	0	left_inside_cov=8	left_outside_cov=12	right_inside_cov=11	right_outside_cov=12
+MC	44	.	contig_0	3662984	3663187	0	0	left_inside_cov=11	left_outside_cov=13	right_inside_cov=11	right_outside_cov=12
+MC	45	.	contig_0	3759369	3773875	14261	0	left_inside_cov=11	left_outside_cov=12	right_inside_cov=0	right_outside_cov=NA
+JC	46	.	contig_0	180785	1	contig_0	180819	-1	0	alignment_overlap=0	coverage_minus=3	coverage_plus=14	flanking_left=151	flanking_right=151	frequency=6.538e-01	junction_possible_overlap_registers=133	key=contig_0__180785__1__contig_0__180819__-1__0____151__151__0__0	max_left=141	max_left_minus=34	max_left_plus=141	max_min_left=70	max_min_left_minus=34	max_min_left_plus=70	max_min_right=34	max_min_right_minus=0	max_min_right_plus=34	max_pos_hash_score=266	max_right=125	max_right_minus=125	max_right_plus=109	neg_log10_pos_hash_p_value=1.5	new_junction_coverage=0.34	new_junction_read_count=17	polymorphism_frequency=6.538e-01	pos_hash_score=16	prediction=polymorphism	side_1_annotate_key=gene	side_1_continuation=0	side_1_coverage=0.18	side_1_overlap=0	side_1_possible_overlap_registers=133	side_1_read_count=9	side_1_redundant=0	side_2_annotate_key=gene	side_2_continuation=0	side_2_coverage=0.18	side_2_overlap=0	side_2_possible_overlap_registers=133	side_2_read_count=9	side_2_redundant=0	total_non_overlap_reads=17
+JC	47	.	contig_0	296880	-1	contig_0	296964	1	0	alignment_overlap=8	coverage_minus=2	coverage_plus=2	flanking_left=151	flanking_right=151	frequency=1.791e-01	junction_possible_overlap_registers=125	key=contig_0__296880__-1__contig_0__296956__1__8____151__151__0__0	max_left=141	max_left_minus=111	max_left_plus=141	max_min_left=36	max_min_left_minus=23	max_min_left_plus=36	max_min_right=16	max_min_right_minus=16	max_min_right_plus=2	max_pos_hash_score=250	max_right=107	max_right_minus=65	max_right_plus=107	neg_log10_pos_hash_p_value=4.2	new_junction_coverage=0.08	new_junction_read_count=4	polymorphism_frequency=1.791e-01	pos_hash_score=4	prediction=polymorphism	reject=COVERAGE_EVENNESS_SKEW,FREQUENCY_CUTOFF	side_1_annotate_key=gene	side_1_continuation=0	side_1_coverage=0.44	side_1_overlap=8	side_1_possible_overlap_registers=133	side_1_read_count=22	side_1_redundant=0	side_2_annotate_key=gene	side_2_continuation=0	side_2_coverage=0.34	side_2_overlap=0	side_2_possible_overlap_registers=125	side_2_read_count=16	side_2_redundant=0	total_non_overlap_reads=4
+JC	48	.	contig_0	473237	1	contig_0	473230	-1	0	alignment_overlap=19	coverage_minus=17	coverage_plus=20	flanking_left=151	flanking_right=151	frequency=1	junction_possible_overlap_registers=114	key=contig_0__473237__1__contig_0__473249__-1__19____151__151__0__0	max_left=129	max_left_minus=129	max_left_plus=128	max_min_left=65	max_min_left_minus=40	max_min_left_plus=65	max_min_right=62	max_min_right_minus=62	max_min_right_plus=37	max_pos_hash_score=228	max_right=120	max_right_minus=107	max_right_plus=120	neg_log10_pos_hash_p_value=0.4	new_junction_coverage=0.86	new_junction_read_count=37	polymorphism_frequency=9.152e-01	pos_hash_score=27	prediction=consensus	side_1_annotate_key=gene	side_1_continuation=0	side_1_coverage=0.16	side_1_overlap=19	side_1_possible_overlap_registers=133	side_1_read_count=8	side_1_redundant=0	side_2_annotate_key=gene	side_2_continuation=0	side_2_coverage=0.00	side_2_overlap=0	side_2_possible_overlap_registers=114	side_2_read_count=0	side_2_redundant=0	total_non_overlap_reads=37
+JC	49	.	contig_0	1895444	-1	contig_0	1895499	1	0	alignment_overlap=6	coverage_minus=7	coverage_plus=7	flanking_left=151	flanking_right=151	frequency=3.893e-01	junction_possible_overlap_registers=127	key=contig_0__1895444__-1__contig_0__1895493__1__6____151__151__0__0	max_left=136	max_left_minus=124	max_left_plus=136	max_min_left=57	max_min_left_minus=57	max_min_left_plus=53	max_min_right=44	max_min_right_minus=44	max_min_right_plus=44	max_pos_hash_score=254	max_right=127	max_right_minus=102	max_right_plus=127	neg_log10_pos_hash_p_value=1.9	new_junction_coverage=0.29	new_junction_read_count=14	polymorphism_frequency=3.893e-01	pos_hash_score=13	prediction=polymorphism	side_1_annotate_key=gene	side_1_continuation=0	side_1_coverage=0.48	side_1_overlap=6	side_1_possible_overlap_registers=133	side_1_read_count=24	side_1_redundant=0	side_2_annotate_key=gene	side_2_continuation=0	side_2_coverage=0.44	side_2_overlap=0	side_2_possible_overlap_registers=127	side_2_read_count=21	side_2_redundant=0	total_non_overlap_reads=14
+JC	50	.	contig_0	2045369	1	contig_0	2045395	-1	0	alignment_overlap=25	coverage_minus=19	coverage_plus=9	flanking_left=151	flanking_right=151	frequency=6.360e-01	junction_possible_overlap_registers=108	key=contig_0__2045369__1__contig_0__2045420__-1__25____151__151__0__0	max_left=119	max_left_minus=119	max_left_plus=106	max_min_left=53	max_min_left_minus=45	max_min_left_plus=53	max_min_right=61	max_min_right_minus=61	max_min_right_plus=13	max_pos_hash_score=216	max_right=101	max_right_minus=92	max_right_plus=101	neg_log10_pos_hash_p_value=0.7	new_junction_coverage=0.68	new_junction_read_count=28	polymorphism_frequency=6.360e-01	pos_hash_score=20	prediction=polymorphism	side_1_annotate_key=gene	side_1_continuation=0	side_1_coverage=0.42	side_1_overlap=25	side_1_possible_overlap_registers=133	side_1_read_count=21	side_1_redundant=0	side_2_annotate_key=gene	side_2_continuation=0	side_2_coverage=0.37	side_2_overlap=0	side_2_possible_overlap_registers=108	side_2_read_count=15	side_2_redundant=0	total_non_overlap_reads=28
+JC	51	.	contig_0	2892029	-1	contig_0	2892075	1	0	alignment_overlap=12	coverage_minus=3	coverage_plus=1	flanking_left=151	flanking_right=151	frequency=1.087e-01	junction_possible_overlap_registers=121	key=contig_0__2892029__-1__contig_0__2892063__1__12____151__151__0__0	max_left=96	max_left_minus=96	max_left_plus=8	max_min_left=8	max_min_left_minus=7	max_min_left_plus=8	max_min_right=49	max_min_right_minus=49	max_min_right_plus=0	max_pos_hash_score=242	max_right=132	max_right_minus=132	max_right_plus=131	neg_log10_pos_hash_p_value=4.1	new_junction_coverage=0.09	new_junction_read_count=4	polymorphism_frequency=1.087e-01	pos_hash_score=4	prediction=polymorphism	reject=COVERAGE_EVENNESS_SKEW,FREQUENCY_CUTOFF	side_1_annotate_key=gene	side_1_continuation=0	side_1_coverage=0.75	side_1_overlap=12	side_1_possible_overlap_registers=133	side_1_read_count=38	side_1_redundant=0	side_2_annotate_key=gene	side_2_continuation=0	side_2_coverage=0.68	side_2_overlap=0	side_2_possible_overlap_registers=121	side_2_read_count=31	side_2_redundant=0	total_non_overlap_reads=4
+JC	52	.	contig_0	2978800	-1	contig_0	2978853	1	0	alignment_overlap=7	coverage_minus=1	coverage_plus=2	flanking_left=151	flanking_right=151	frequency=2.257e-01	junction_possible_overlap_registers=126	key=contig_0__2978800__-1__contig_0__2978846__1__7____151__151__0__0	max_left=105	max_left_minus=43	max_left_plus=105	max_min_left=43	max_min_left_minus=43	max_min_left_plus=40	max_min_right=1	max_min_right_minus=0	max_min_right_plus=1	max_pos_hash_score=252	max_right=104	max_right_minus=101	max_right_plus=104	neg_log10_pos_hash_p_value=4.6	new_junction_coverage=0.06	new_junction_read_count=3	polymorphism_frequency=2.257e-01	pos_hash_score=3	prediction=polymorphism	reject=COVERAGE_EVENNESS_SKEW	side_1_annotate_key=gene	side_1_continuation=0	side_1_coverage=0.16	side_1_overlap=7	side_1_possible_overlap_registers=133	side_1_read_count=8	side_1_redundant=0	side_2_annotate_key=gene	side_2_continuation=0	side_2_coverage=0.27	side_2_overlap=0	side_2_possible_overlap_registers=126	side_2_read_count=13	side_2_redundant=0	total_non_overlap_reads=3
+JC	53	.	contig_0	3355564	-1	contig_0	3355611	1	0	alignment_overlap=8	coverage_minus=5	coverage_plus=5	flanking_left=151	flanking_right=151	frequency=4.573e-01	junction_possible_overlap_registers=125	key=contig_0__3355564__-1__contig_0__3355603__1__8____151__151__0__0	max_left=140	max_left_minus=140	max_left_plus=81	max_min_left=39	max_min_left_minus=39	max_min_left_plus=34	max_min_right=62	max_min_right_minus=38	max_min_right_plus=62	max_pos_hash_score=250	max_right=141	max_right_minus=141	max_right_plus=135	neg_log10_pos_hash_p_value=2.4	new_junction_coverage=0.21	new_junction_read_count=10	polymorphism_frequency=4.573e-01	pos_hash_score=10	prediction=polymorphism	side_1_annotate_key=gene	side_1_continuation=0	side_1_coverage=0.42	side_1_overlap=8	side_1_possible_overlap_registers=133	side_1_read_count=21	side_1_redundant=0	side_2_annotate_key=gene	side_2_continuation=0	side_2_coverage=0.08	side_2_overlap=0	side_2_possible_overlap_registers=125	side_2_read_count=4	side_2_redundant=0	total_non_overlap_reads=10
+UN	54	.	contig_0	1	24697
+UN	55	.	contig_0	120055	120056
+UN	56	.	contig_0	120059	120068
+UN	57	.	contig_0	120074	120085
+UN	58	.	contig_0	128147	128147
+UN	59	.	contig_0	128151	128151
+UN	60	.	contig_0	128153	128153
+UN	61	.	contig_0	128155	128156
+UN	62	.	contig_0	128158	128158
+UN	63	.	contig_0	128162	128163
+UN	64	.	contig_0	128165	128167
+UN	65	.	contig_0	128171	128171
+UN	66	.	contig_0	140959	140959
+UN	67	.	contig_0	140962	140962
+UN	68	.	contig_0	140964	140964
+UN	69	.	contig_0	150887	150887
+UN	70	.	contig_0	150891	150892
+UN	71	.	contig_0	150897	150960
+UN	72	.	contig_0	150962	150962
+UN	73	.	contig_0	157391	157391
+UN	74	.	contig_0	157396	157424
+UN	75	.	contig_0	157726	158324
+UN	76	.	contig_0	166522	166532
+UN	77	.	contig_0	176136	176136
+UN	78	.	contig_0	176140	176140
+UN	79	.	contig_0	176143	176143
+UN	80	.	contig_0	176145	176177
+UN	81	.	contig_0	192102	193710
+UN	82	.	contig_0	193974	194063
+UN	83	.	contig_0	194310	195872
+UN	84	.	contig_0	196122	197141
+UN	85	.	contig_0	213968	213968
+UN	86	.	contig_0	213970	213970
+UN	87	.	contig_0	213981	213981
+UN	88	.	contig_0	213984	213986
+UN	89	.	contig_0	213988	213988
+UN	90	.	contig_0	214477	214478
+UN	91	.	contig_0	242234	242234
+UN	92	.	contig_0	250433	250433
+UN	93	.	contig_0	250435	250435
+UN	94	.	contig_0	250439	250473
+UN	95	.	contig_0	309817	309903
+UN	96	.	contig_0	309913	309922
+UN	97	.	contig_0	315923	315942
+UN	98	.	contig_0	320007	320007
+UN	99	.	contig_0	320011	320011
+UN	100	.	contig_0	351778	351779
+UN	101	.	contig_0	351781	351781
+UN	102	.	contig_0	351784	351786
+UN	103	.	contig_0	351790	351790
+UN	104	.	contig_0	351792	351867
+UN	105	.	contig_0	351953	351980
+UN	106	.	contig_0	351983	351983
+UN	107	.	contig_0	351986	351986
+UN	108	.	contig_0	351988	351988
+UN	109	.	contig_0	351992	351992
+UN	110	.	contig_0	351994	351994
+UN	111	.	contig_0	359427	359427
+UN	112	.	contig_0	359429	359456
+UN	113	.	contig_0	359459	359459
+UN	114	.	contig_0	359463	359463
+UN	115	.	contig_0	359469	359474
+UN	116	.	contig_0	359476	359476
+UN	117	.	contig_0	359480	359480
+UN	118	.	contig_0	359483	359483
+UN	119	.	contig_0	359488	359489
+UN	120	.	contig_0	359492	359494
+UN	121	.	contig_0	413503	413592
+UN	122	.	contig_0	413596	413596
+UN	123	.	contig_0	413599	413599
+UN	124	.	contig_0	462176	462179
+UN	125	.	contig_0	462185	462185
+UN	126	.	contig_0	462193	462197
+UN	127	.	contig_0	473231	473236
+UN	128	.	contig_0	474128	474129
+UN	129	.	contig_0	474131	474132
+UN	130	.	contig_0	474135	474137
+UN	131	.	contig_0	474148	474174
+UN	132	.	contig_0	474176	474177
+UN	133	.	contig_0	474247	474339
+UN	134	.	contig_0	503847	503847
+UN	135	.	contig_0	503849	503850
+UN	136	.	contig_0	509887	509887
+UN	137	.	contig_0	538771	538771
+UN	138	.	contig_0	538775	538812
+UN	139	.	contig_0	538815	538816
+UN	140	.	contig_0	539083	539101
+UN	141	.	contig_0	545981	545981
+UN	142	.	contig_0	545983	545988
+UN	143	.	contig_0	546006	546006
+UN	144	.	contig_0	546008	546008
+UN	145	.	contig_0	546011	546011
+UN	146	.	contig_0	546013	546013
+UN	147	.	contig_0	546017	546018
+UN	148	.	contig_0	548877	548895
+UN	149	.	contig_0	558818	558818
+UN	150	.	contig_0	558821	558821
+UN	151	.	contig_0	558824	558826
+UN	152	.	contig_0	558830	558831
+UN	153	.	contig_0	558833	558834
+UN	154	.	contig_0	558837	558957
+UN	155	.	contig_0	558960	558960
+UN	156	.	contig_0	558966	558967
+UN	157	.	contig_0	558969	558970
+UN	158	.	contig_0	574140	574141
+UN	159	.	contig_0	574144	574144
+UN	160	.	contig_0	574147	574147
+UN	161	.	contig_0	574149	574149
+UN	162	.	contig_0	574152	574152
+UN	163	.	contig_0	574157	574158
+UN	164	.	contig_0	574160	574160
+UN	165	.	contig_0	574162	574163
+UN	166	.	contig_0	574169	574196
+UN	167	.	contig_0	597776	597778
+UN	168	.	contig_0	612803	612804
+UN	169	.	contig_0	612806	612853
+UN	170	.	contig_0	622970	622970
+UN	171	.	contig_0	639969	639969
+UN	172	.	contig_0	639973	639976
+UN	173	.	contig_0	639979	639979
+UN	174	.	contig_0	639981	640005
+UN	175	.	contig_0	697715	697729
+UN	176	.	contig_0	734820	734820
+UN	177	.	contig_0	734822	734822
+UN	178	.	contig_0	734825	734825
+UN	179	.	contig_0	734827	734853
+UN	180	.	contig_0	734858	734858
+UN	181	.	contig_0	734864	734927
+UN	182	.	contig_0	734935	734935
+UN	183	.	contig_0	734937	734937
+UN	184	.	contig_0	734941	734975
+UN	185	.	contig_0	734977	734977
+UN	186	.	contig_0	735013	735013
+UN	187	.	contig_0	735015	735015
+UN	188	.	contig_0	735022	735022
+UN	189	.	contig_0	735029	735029
+UN	190	.	contig_0	742434	742487
+UN	191	.	contig_0	749645	749674
+UN	192	.	contig_0	797289	797289
+UN	193	.	contig_0	797291	797291
+UN	194	.	contig_0	798677	798690
+UN	195	.	contig_0	811638	811639
+UN	196	.	contig_0	856240	856240
+UN	197	.	contig_0	856244	856250
+UN	198	.	contig_0	871890	871918
+UN	199	.	contig_0	871926	871926
+UN	200	.	contig_0	871928	871928
+UN	201	.	contig_0	871949	871949
+UN	202	.	contig_0	872074	872078
+UN	203	.	contig_0	872081	872081
+UN	204	.	contig_0	872087	872087
+UN	205	.	contig_0	872092	872092
+UN	206	.	contig_0	872094	872094
+UN	207	.	contig_0	872097	872123
+UN	208	.	contig_0	872138	872138
+UN	209	.	contig_0	872168	872168
+UN	210	.	contig_0	872171	872171
+UN	211	.	contig_0	872178	872178
+UN	212	.	contig_0	872183	872231
+UN	213	.	contig_0	872382	872384
+UN	214	.	contig_0	872386	872444
+UN	215	.	contig_0	872446	872466
+UN	216	.	contig_0	872468	872468
+UN	217	.	contig_0	892959	892960
+UN	218	.	contig_0	963997	963998
+UN	219	.	contig_0	970892	970897
+UN	220	.	contig_0	970901	970901
+UN	221	.	contig_0	970904	970904
+UN	222	.	contig_0	970907	970907
+UN	223	.	contig_0	1008856	1008876
+UN	224	.	contig_0	1021227	1021227
+UN	225	.	contig_0	1021246	1021246
+UN	226	.	contig_0	1021250	1021251
+UN	227	.	contig_0	1021253	1021253
+UN	228	.	contig_0	1021255	1021255
+UN	229	.	contig_0	1021257	1021258
+UN	230	.	contig_0	1037402	1037402
+UN	231	.	contig_0	1037405	1037405
+UN	232	.	contig_0	1037407	1037407
+UN	233	.	contig_0	1037410	1037410
+UN	234	.	contig_0	1037426	1037426
+UN	235	.	contig_0	1037432	1037465
+UN	236	.	contig_0	1037495	1037495
+UN	237	.	contig_0	1037528	1037528
+UN	238	.	contig_0	1037530	1037530
+UN	239	.	contig_0	1037533	1037642
+UN	240	.	contig_0	1060450	1060490
+UN	241	.	contig_0	1060493	1060493
+UN	242	.	contig_0	1060497	1060497
+UN	243	.	contig_0	1060501	1060501
+UN	244	.	contig_0	1060505	1060505
+UN	245	.	contig_0	1060509	1060510
+UN	246	.	contig_0	1060513	1060513
+UN	247	.	contig_0	1060517	1060517
+UN	248	.	contig_0	1060521	1060521
+UN	249	.	contig_0	1060527	1060528
+UN	250	.	contig_0	1060531	1060531
+UN	251	.	contig_0	1060540	1060540
+UN	252	.	contig_0	1060544	1060544
+UN	253	.	contig_0	1060547	1060590
+UN	254	.	contig_0	1067118	1067118
+UN	255	.	contig_0	1067122	1067124
+UN	256	.	contig_0	1088973	1088973
+UN	257	.	contig_0	1088976	1088976
+UN	258	.	contig_0	1116526	1116529
+UN	259	.	contig_0	1121242	1121242
+UN	260	.	contig_0	1121324	1121324
+UN	261	.	contig_0	1132360	1132382
+UN	262	.	contig_0	1132385	1132385
+UN	263	.	contig_0	1132387	1132387
+UN	264	.	contig_0	1132389	1132389
+UN	265	.	contig_0	1132391	1132391
+UN	266	.	contig_0	1155141	1155141
+UN	267	.	contig_0	1155144	1155144
+UN	268	.	contig_0	1155147	1155148
+UN	269	.	contig_0	1155151	1155151
+UN	270	.	contig_0	1155155	1155155
+UN	271	.	contig_0	1162061	1162066
+UN	272	.	contig_0	1162074	1162076
+UN	273	.	contig_0	1162078	1162078
+UN	274	.	contig_0	1184017	1184018
+UN	275	.	contig_0	1184021	1184021
+UN	276	.	contig_0	1184028	1184076
+UN	277	.	contig_0	1208977	1208977
+UN	278	.	contig_0	1208983	1208983
+UN	279	.	contig_0	1208991	1208991
+UN	280	.	contig_0	1208995	1208995
+UN	281	.	contig_0	1215245	1216385
+UN	282	.	contig_0	1216743	1218060
+UN	283	.	contig_0	1218479	1218480
+UN	284	.	contig_0	1218483	1220278
+UN	285	.	contig_0	1227834	1227853
+UN	286	.	contig_0	1238507	1238521
+UN	287	.	contig_0	1247248	1247250
+UN	288	.	contig_0	1247253	1247253
+UN	289	.	contig_0	1247255	1247267
+UN	290	.	contig_0	1251043	1251050
+UN	291	.	contig_0	1251053	1251063
+UN	292	.	contig_0	1254177	1254232
+UN	293	.	contig_0	1254234	1254234
+UN	294	.	contig_0	1254237	1254239
+UN	295	.	contig_0	1254242	1254242
+UN	296	.	contig_0	1254244	1254244
+UN	297	.	contig_0	1254247	1254248
+UN	298	.	contig_0	1254258	1254258
+UN	299	.	contig_0	1257214	1257214
+UN	300	.	contig_0	1257216	1257216
+UN	301	.	contig_0	1257221	1257221
+UN	302	.	contig_0	1257232	1257232
+UN	303	.	contig_0	1284654	1284660
+UN	304	.	contig_0	1284788	1284789
+UN	305	.	contig_0	1284792	1284792
+UN	306	.	contig_0	1284794	1284794
+UN	307	.	contig_0	1284797	1284797
+UN	308	.	contig_0	1284800	1284802
+UN	309	.	contig_0	1284808	1284813
+UN	310	.	contig_0	1284815	1284829
+UN	311	.	contig_0	1298671	1298685
+UN	312	.	contig_0	1308066	1308076
+UN	313	.	contig_0	1308080	1308084
+UN	314	.	contig_0	1314213	1314214
+UN	315	.	contig_0	1314216	1314218
+UN	316	.	contig_0	1323648	1323682
+UN	317	.	contig_0	1326228	1326228
+UN	318	.	contig_0	1326230	1326230
+UN	319	.	contig_0	1326232	1326233
+UN	320	.	contig_0	1332722	1332722
+UN	321	.	contig_0	1332724	1332757
+UN	322	.	contig_0	1334049	1334064
+UN	323	.	contig_0	1334066	1334066
+UN	324	.	contig_0	1334068	1334068
+UN	325	.	contig_0	1363236	1363236
+UN	326	.	contig_0	1503908	1503937
+UN	327	.	contig_0	1556993	1556993
+UN	328	.	contig_0	1557005	1557005
+UN	329	.	contig_0	1557007	1557014
+UN	330	.	contig_0	1557024	1557024
+UN	331	.	contig_0	1557029	1557029
+UN	332	.	contig_0	1557033	1557033
+UN	333	.	contig_0	1557044	1557044
+UN	334	.	contig_0	1557048	1557048
+UN	335	.	contig_0	1572454	1572463
+UN	336	.	contig_0	1572467	1572467
+UN	337	.	contig_0	1590348	1590348
+UN	338	.	contig_0	1605869	1605895
+UN	339	.	contig_0	1615304	1615311
+UN	340	.	contig_0	1617614	1617614
+UN	341	.	contig_0	1617617	1617639
+UN	342	.	contig_0	1617643	1617658
+UN	343	.	contig_0	1623698	1623729
+UN	344	.	contig_0	1623731	1623731
+UN	345	.	contig_0	1628900	1628900
+UN	346	.	contig_0	1629083	1629089
+UN	347	.	contig_0	1629097	1629097
+UN	348	.	contig_0	1629101	1629101
+UN	349	.	contig_0	1629104	1629105
+UN	350	.	contig_0	1629111	1629111
+UN	351	.	contig_0	1629113	1629113
+UN	352	.	contig_0	1629118	1629118
+UN	353	.	contig_0	1629125	1629125
+UN	354	.	contig_0	1635216	1635249
+UN	355	.	contig_0	1669720	1669720
+UN	356	.	contig_0	1669723	1669731
+UN	357	.	contig_0	1684157	1684158
+UN	358	.	contig_0	1684163	1684173
+UN	359	.	contig_0	1712956	1712956
+UN	360	.	contig_0	1712958	1712958
+UN	361	.	contig_0	1717795	1717795
+UN	362	.	contig_0	1723028	1723040
+UN	363	.	contig_0	1723045	1723045
+UN	364	.	contig_0	1723049	1723049
+UN	365	.	contig_0	1723053	1723053
+UN	366	.	contig_0	1733973	1733974
+UN	367	.	contig_0	1733977	1733977
+UN	368	.	contig_0	1733983	1733983
+UN	369	.	contig_0	1738287	1738308
+UN	370	.	contig_0	1745396	1745408
+UN	371	.	contig_0	1757944	1757944
+UN	372	.	contig_0	1761778	1761778
+UN	373	.	contig_0	1761782	1761782
+UN	374	.	contig_0	1761787	1761787
+UN	375	.	contig_0	1761827	1761828
+UN	376	.	contig_0	1761830	1761834
+UN	377	.	contig_0	1786797	1786797
+UN	378	.	contig_0	1786799	1786801
+UN	379	.	contig_0	1786803	1786811
+UN	380	.	contig_0	1786813	1786819
+UN	381	.	contig_0	1798042	1798061
+UN	382	.	contig_0	1825715	1825729
+UN	383	.	contig_0	1831895	1831914
+UN	384	.	contig_0	1865483	1865506
+UN	385	.	contig_0	1865647	1865657
+UN	386	.	contig_0	1886405	1886417
+UN	387	.	contig_0	1886427	1886428
+UN	388	.	contig_0	1886430	1886430
+UN	389	.	contig_0	1886434	1886434
+UN	390	.	contig_0	1886436	1886436
+UN	391	.	contig_0	1893890	1893890
+UN	392	.	contig_0	1918284	1918309
+UN	393	.	contig_0	1918314	1918314
+UN	394	.	contig_0	1957593	1957610
+UN	395	.	contig_0	1959625	1959625
+UN	396	.	contig_0	1959630	1959630
+UN	397	.	contig_0	1959632	1959633
+UN	398	.	contig_0	1959635	1959673
+UN	399	.	contig_0	1979843	1979843
+UN	400	.	contig_0	1979845	1979866
+UN	401	.	contig_0	1985487	1985498
+UN	402	.	contig_0	1985500	1985501
+UN	403	.	contig_0	2037776	2037779
+UN	404	.	contig_0	2046865	2047934
+UN	405	.	contig_0	2048080	2049617
+UN	406	.	contig_0	2049868	2051829
+UN	407	.	contig_0	2131212	2131234
+UN	408	.	contig_0	2148248	2148248
+UN	409	.	contig_0	2148250	2148262
+UN	410	.	contig_0	2159035	2159061
+UN	411	.	contig_0	2164178	2164178
+UN	412	.	contig_0	2164184	2164187
+UN	413	.	contig_0	2178700	2178712
+UN	414	.	contig_0	2182333	2182333
+UN	415	.	contig_0	2222745	2222745
+UN	416	.	contig_0	2222753	2222756
+UN	417	.	contig_0	2222758	2222761
+UN	418	.	contig_0	2222766	2222767
+UN	419	.	contig_0	2222769	2222771
+UN	420	.	contig_0	2232256	2232267
+UN	421	.	contig_0	2232269	2232269
+UN	422	.	contig_0	2232272	2232272
+UN	423	.	contig_0	2252628	2252651
+UN	424	.	contig_0	2279842	2279844
+UN	425	.	contig_0	2279846	2279846
+UN	426	.	contig_0	2279848	2279857
+UN	427	.	contig_0	2279859	2279859
+UN	428	.	contig_0	2289167	2289178
+UN	429	.	contig_0	2297477	2297510
+UN	430	.	contig_0	2297513	2297513
+UN	431	.	contig_0	2301988	2301988
+UN	432	.	contig_0	2301991	2301991
+UN	433	.	contig_0	2301994	2301995
+UN	434	.	contig_0	2301997	2301997
+UN	435	.	contig_0	2302001	2302001
+UN	436	.	contig_0	2302003	2302051
+UN	437	.	contig_0	2336270	2336270
+UN	438	.	contig_0	2336275	2336301
+UN	439	.	contig_0	2384258	2384280
+UN	440	.	contig_0	2394161	2394214
+UN	441	.	contig_0	2439335	2439362
+UN	442	.	contig_0	2439364	2439366
+UN	443	.	contig_0	2481638	2481679
+UN	444	.	contig_0	2481681	2481681
+UN	445	.	contig_0	2481685	2481685
+UN	446	.	contig_0	2492535	2492544
+UN	447	.	contig_0	2492619	2492621
+UN	448	.	contig_0	2492629	2492633
+UN	449	.	contig_0	2497961	2497961
+UN	450	.	contig_0	2497964	2497964
+UN	451	.	contig_0	2497967	2497968
+UN	452	.	contig_0	2497972	2497972
+UN	453	.	contig_0	2497974	2498000
+UN	454	.	contig_0	2498003	2498003
+UN	455	.	contig_0	2498006	2498006
+UN	456	.	contig_0	2502268	2502268
+UN	457	.	contig_0	2502273	2502295
+UN	458	.	contig_0	2505665	2505666
+UN	459	.	contig_0	2505669	2505678
+UN	460	.	contig_0	2522242	2522242
+UN	461	.	contig_0	2591197	2591236
+UN	462	.	contig_0	2591315	2591315
+UN	463	.	contig_0	2591323	2591323
+UN	464	.	contig_0	2591326	2591347
+UN	465	.	contig_0	2659932	2659932
+UN	466	.	contig_0	2659934	2659937
+UN	467	.	contig_0	2807456	2807491
+UN	468	.	contig_0	2807493	2807493
+UN	469	.	contig_0	2807498	2807498
+UN	470	.	contig_0	2807501	2807501
+UN	471	.	contig_0	2807505	2807505
+UN	472	.	contig_0	2807509	2807509
+UN	473	.	contig_0	2865122	2865123
+UN	474	.	contig_0	2875678	2875678
+UN	475	.	contig_0	2875680	2875680
+UN	476	.	contig_0	2892636	2892653
+UN	477	.	contig_0	2897651	2897674
+UN	478	.	contig_0	2897678	2897678
+UN	479	.	contig_0	2931894	2931914
+UN	480	.	contig_0	2954541	2954551
+UN	481	.	contig_0	2968168	2968168
+UN	482	.	contig_0	2968171	2968175
+UN	483	.	contig_0	2968178	2968178
+UN	484	.	contig_0	2968185	2968185
+UN	485	.	contig_0	2968188	2968189
+UN	486	.	contig_0	2968191	2968191
+UN	487	.	contig_0	2973924	2973925
+UN	488	.	contig_0	2973927	2974471
+UN	489	.	contig_0	2974474	2974474
+UN	490	.	contig_0	2974476	2974476
+UN	491	.	contig_0	2978811	2978812
+UN	492	.	contig_0	2978814	2978831
+UN	493	.	contig_0	2978835	2978838
+UN	494	.	contig_0	3029373	3029373
+UN	495	.	contig_0	3029375	3029375
+UN	496	.	contig_0	3029377	3029377
+UN	497	.	contig_0	3034152	3034166
+UN	498	.	contig_0	3044603	3044603
+UN	499	.	contig_0	3044609	3044609
+UN	500	.	contig_0	3044614	3044614
+UN	501	.	contig_0	3044616	3044616
+UN	502	.	contig_0	3091190	3091200
+UN	503	.	contig_0	3091203	3091203
+UN	504	.	contig_0	3099061	3099339
+UN	505	.	contig_0	3099604	3099894
+UN	506	.	contig_0	3126102	3126120
+UN	507	.	contig_0	3161895	3161895
+UN	508	.	contig_0	3161899	3161900
+UN	509	.	contig_0	3161905	3161905
+UN	510	.	contig_0	3161909	3161909
+UN	511	.	contig_0	3208163	3208176
+UN	512	.	contig_0	3241117	3241117
+UN	513	.	contig_0	3282012	3282030
+UN	514	.	contig_0	3282032	3282032
+UN	515	.	contig_0	3282104	3282107
+UN	516	.	contig_0	3282109	3282109
+UN	517	.	contig_0	3282111	3282111
+UN	518	.	contig_0	3285672	3285697
+UN	519	.	contig_0	3288655	3288655
+UN	520	.	contig_0	3288658	3288788
+UN	521	.	contig_0	3288790	3288791
+UN	522	.	contig_0	3288793	3288794
+UN	523	.	contig_0	3288797	3288797
+UN	524	.	contig_0	3288800	3288800
+UN	525	.	contig_0	3288802	3288803
+UN	526	.	contig_0	3288806	3288807
+UN	527	.	contig_0	3295927	3295927
+UN	528	.	contig_0	3295930	3295933
+UN	529	.	contig_0	3295935	3295935
+UN	530	.	contig_0	3295943	3295943
+UN	531	.	contig_0	3295945	3295945
+UN	532	.	contig_0	3295951	3295951
+UN	533	.	contig_0	3295970	3295970
+UN	534	.	contig_0	3295972	3295972
+UN	535	.	contig_0	3325237	3325264
+UN	536	.	contig_0	3334424	3334435
+UN	537	.	contig_0	3337905	3337929
+UN	538	.	contig_0	3351714	3351824
+UN	539	.	contig_0	3355591	3355606
+UN	540	.	contig_0	3375120	3375132
+UN	541	.	contig_0	3375135	3375135
+UN	542	.	contig_0	3425084	3425084
+UN	543	.	contig_0	3435227	3435236
+UN	544	.	contig_0	3435239	3435241
+UN	545	.	contig_0	3435243	3435245
+UN	546	.	contig_0	3442656	3442656
+UN	547	.	contig_0	3471467	3471471
+UN	548	.	contig_0	3481049	3481049
+UN	549	.	contig_0	3481079	3481079
+UN	550	.	contig_0	3481083	3481083
+UN	551	.	contig_0	3481086	3481086
+UN	552	.	contig_0	3481089	3481117
+UN	553	.	contig_0	3485174	3485174
+UN	554	.	contig_0	3485176	3485177
+UN	555	.	contig_0	3485190	3485191
+UN	556	.	contig_0	3519389	3519389
+UN	557	.	contig_0	3519393	3519395
+UN	558	.	contig_0	3519398	3519398
+UN	559	.	contig_0	3519401	3519419
+UN	560	.	contig_0	3535848	3535862
+UN	561	.	contig_0	3535864	3535864
+UN	562	.	contig_0	3571263	3571263
+UN	563	.	contig_0	3571266	3571266
+UN	564	.	contig_0	3571268	3571268
+UN	565	.	contig_0	3571276	3571276
+UN	566	.	contig_0	3571281	3571332
+UN	567	.	contig_0	3585291	3585295
+UN	568	.	contig_0	3585298	3585309
+UN	569	.	contig_0	3586953	3586956
+UN	570	.	contig_0	3586958	3586958
+UN	571	.	contig_0	3586960	3586960
+UN	572	.	contig_0	3586962	3586963
+UN	573	.	contig_0	3586965	3586965
+UN	574	.	contig_0	3590831	3590831
+UN	575	.	contig_0	3590833	3590834
+UN	576	.	contig_0	3590843	3590843
+UN	577	.	contig_0	3619010	3619078
+UN	578	.	contig_0	3619083	3619150
+UN	579	.	contig_0	3619152	3619152
+UN	580	.	contig_0	3620272	3620293
+UN	581	.	contig_0	3639776	3639776
+UN	582	.	contig_0	3639788	3639799
+UN	583	.	contig_0	3647710	3647813
+UN	584	.	contig_0	3647817	3647817
+UN	585	.	contig_0	3663034	3663145
+UN	586	.	contig_0	3686972	3686973
+UN	587	.	contig_0	3686983	3686983
+UN	588	.	contig_0	3686985	3686986
+UN	589	.	contig_0	3686988	3686988
+UN	590	.	contig_0	3687016	3687016
+UN	591	.	contig_0	3687121	3687121
+UN	592	.	contig_0	3687123	3687124
+UN	593	.	contig_0	3706240	3706269
+UN	594	.	contig_0	3713883	3713903
+UN	595	.	contig_0	3713908	3713909
+UN	596	.	contig_0	3713911	3713914
+UN	597	.	contig_0	3749054	3749054
+UN	598	.	contig_0	3749056	3749069
+UN	599	.	contig_0	3749320	3751822
+UN	600	.	contig_0	3752082	3753543
+UN	601	.	contig_0	3753796	3754018
+UN	602	.	contig_0	3754346	3754497
+UN	603	.	contig_0	3754768	3755060
+UN	604	.	contig_0	3755336	3755687
+UN	605	.	contig_0	3756006	3756449
+UN	606	.	contig_0	3756695	3756695
+UN	607	.	contig_0	3756699	3759219
+UN	608	.	contig_0	3759396	3773875

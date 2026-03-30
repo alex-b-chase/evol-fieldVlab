@@ -1,0 +1,28 @@
+# Metadata for Curtogrowth_data.csv
+- **Incubation Period:** 1/22/2025 to 3/5/2025
+
+### Identifiers
+- **Treatment:** Experimental group (Neg: Control, D26: Inoculated, G58: Inoculated).
+- **Replicate:** Replicate number (1-4) within each treatment.
+- **Collection_point:** Sequential sampling point ID.
+- **SampleID:** Unique identifier for each sample.
+- **bagid:** Unique identifier for each bag (1-12) used for longitudinal tracking.
+- **Date:** Date of sampling (MM/DD/YYYY).
+
+### Sample Properties
+- **proportion_dry:** Dry mass ratio (used for correction).
+- **mass_to_cell_extraction:** Initial mass used for extraction (g).
+
+### Plating (Colony) Data - Raw Counts
+- **Colony_count_0** to **Colony_count_10-5:** Raw colony counts at different dilution factors (0 to 10^-5).
+
+### Plating (Colony) Data - Corrected
+- **Colony_corrected_0** to **Colony_corrected_10-5:** Colony counts corrected per gram of dry litter and for the respective dilution factor. (Cells/g dry litter).
+
+### Flow Cytometry Data - Corrected
+- **E4_gate_dilution_drymass_corrected:** Cell count from Flow Cytometry Gate E4, corrected per gram of dry litter and dilution.
+- **E5_gate_dilution_drymass_corrected:** Cell count from Flow Cytometry Gate E5, corrected per gram of dry litter and dilution.
+- **E6_gate_dilution_drymass_corrected:** Cell count from Flow Cytometry Gate E6, corrected per gram of dry litter and dilution.
+
+## Data Notes
+- Non-numeric values like `#VALUE!`, `n`, `full`, or `incontable` indicate missing data or counts that were outside the measurable range.

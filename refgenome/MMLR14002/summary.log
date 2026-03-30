@@ -1,0 +1,61 @@
+
+R version 3.6.1 (2019-07-05) -- "Action of the Toes"
+Copyright (C) 2019 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> library(gplots);
+
+Attaching package: ‘gplots’
+
+The following object is masked from ‘package:stats’:
+
+    lowess
+
+> library(reshape2);
+Warning message:
+package ‘reshape2’ was built under R version 3.6.2 
+> library(tidyr);
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:reshape2’:
+
+    smiths
+
+> file_list = list.files(pattern = 'condensed');
+> dataset <- do.call('rbind', lapply(file_list, FUN=function(files){read.table(files, header = F, sep = '\t')}));
+> names(dataset) <- c('count', 'GH_Strain', 'target', 'pfam_id');	
+> dataset[,4] <- gsub('\\..*','', dataset[,4])
+> gh_class <- read.table('/Users/alexchase/software/PfamScan/GH_classification.txt', sep = '\t', header = T);
+> gh_dataset <- merge(dataset, gh_class, by=c('pfam_id'));
+> gh_dataset <- aggregate(count ~ GH_Strain + GH, gh_dataset, sum);
+> gh_all_genomes <- spread(gh_dataset, GH, count);
+> gh_all_genomes[is.na(gh_all_genomes)] <- 0;
+> allD <-melt(gh_all_genomes, id = 'GH_Strain');
+> allD <- acast(allD, GH_Strain ~ variable, value.var = 'value');
+> breaks = seq(min(allD), max(allD), length.out = 100);
+> gradient1 = colorpanel( sum( breaks[-1] <= max(allD) / 2 ), 'white', 'indianred', 'black');
+> gradient2 = colorpanel( sum( breaks[-1] > max(allD) / 2), 'black', 'green', 'forestgreen' );
+> hm.colors = c(gradient1,gradient2);
+> pdf('best-GH.analysis_clustering.pdf', height = 10, width = 15);
+> heatmap.2(allD, col = hm.colors, scale='none',
++           trace = 'none', dendrogram = 'row', 
++           margin=c(5,10), na.rm = T, na.color = 'white');
+Error in heatmap.2(allD, col = hm.colors, scale = "none", trace = "none",  : 
+  `x' must have at least 2 rows and 2 columns
+Execution halted

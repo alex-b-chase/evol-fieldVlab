@@ -1,0 +1,19 @@
+# Methods: Absolute Growth Rate Calculation
+
+The Absolute Growth Rate (Linear Growth Rate) for each bag was calculated based on the change in dilution-dry mass corrected mean colony counts (plating data) over time.
+
+## Formula
+For a given bag, the absolute growth rate between two observations at times t_1 and t_2 (in days) is:
+
+Rate = (N_t2 - N_t1) / (t_2 - t_1)
+
+Where:
+- N_t1 and N_t2 are the mean colony counts (cells per gram dry litter) at times t_1 and t_2 
+
+## Data Processing
+1. **Grouping:** Calculations were performed independently for each of the 12 unique bags (`bagid`).
+2. **Temporal Alignment:** The calculated rate is assigned to the latter date t_2 of each interval.
+3. **Scaling:** For visualization in the absolute growth plots, the values were scaled to 10^9 cells/day for improved readability.
+
+## Data Source
+Values derived from `Curtogrowth_data.csv` using the mean of columns `Colony_corrected_0` through `Colony_corrected_10-5`.

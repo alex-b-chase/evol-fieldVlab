@@ -1,0 +1,449 @@
+NMLMEHPE_00027			456		
+NMLMEHPE_00037	K00335	nuoF; NADH-quinone oxidoreductase subunit F [EC:7.1.1.2]	103		
+NMLMEHPE_00049	K00560	thyA, TYMS; thymidylate synthase [EC:2.1.1.45]	423		
+NMLMEHPE_00057			11	K22317	2
+NMLMEHPE_00059			16	K03565	2
+NMLMEHPE_00060	K06168	CDK5RAP1, miaB; tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]	675		
+NMLMEHPE_00064	K03665	hflX; GTPase	542		
+NMLMEHPE_00073	K05896	scpA; segregation and condensation protein A	246		
+NMLMEHPE_00075	K06178	rluB; 23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]	235		
+NMLMEHPE_00087			26	K06893	2
+NMLMEHPE_00113			209		
+NMLMEHPE_00114					
+NMLMEHPE_00122			15	K02033	3
+NMLMEHPE_00135			15	K16325	3
+NMLMEHPE_00153	K02168	betT, betS; choline/glycine/proline betaine transport protein	384	K05020	41
+NMLMEHPE_00154					
+NMLMEHPE_00162			11	K02591	2
+NMLMEHPE_00165	K03704	cspA; cold shock protein	78		
+NMLMEHPE_00166			16	K00615	3
+NMLMEHPE_00173			11	K01972	5
+NMLMEHPE_00174	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	342		
+NMLMEHPE_00188					
+NMLMEHPE_00189	K01808	rpiB; ribose 5-phosphate isomerase B [EC:5.3.1.6]	94	K21911	18
+NMLMEHPE_00198	K07005	K07005; uncharacterized protein	125		
+NMLMEHPE_00200	K06941	rlmN; 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]	444		
+NMLMEHPE_00211	K02031	ddpD; peptide/nickel transport system ATP-binding protein	241	K02031/K02034	41
+NMLMEHPE_00215			13	K12132	2
+NMLMEHPE_00226	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	44		
+NMLMEHPE_00239			363		
+NMLMEHPE_00242	K03294	TC.APA; basic amino acid/polyamine antiporter, APA family	509		
+NMLMEHPE_00243			118		
+NMLMEHPE_00258			321		
+NMLMEHPE_00275	K07118	K07118; uncharacterized protein	142		
+NMLMEHPE_00288			33	K03574	20
+NMLMEHPE_00289			170		
+NMLMEHPE_00293	K04762	hslR; ribosome-associated heat shock protein Hsp15	134		
+NMLMEHPE_00294			9	K04768	3
+NMLMEHPE_00304	K01462	PDF, def; peptide deformylase [EC:3.5.1.88]	137		
+NMLMEHPE_00305			16	K03657	2
+NMLMEHPE_00314			13	K03561	5
+NMLMEHPE_00319	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	322		
+NMLMEHPE_00324	K02563	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	298		
+NMLMEHPE_00327	K03531	ftsZ; cell division protein FtsZ	478		
+NMLMEHPE_00330	K02221	yggT; YggT family protein	21		
+NMLMEHPE_00331			32	K04074	3
+NMLMEHPE_00334	K02337	dnaE; DNA polymerase III subunit alpha [EC:2.7.7.7]	1293		
+NMLMEHPE_00340			89	K23980	48
+NMLMEHPE_00341			177		
+NMLMEHPE_00342	K02275	coxB, ctaC; cytochrome c oxidase subunit II [EC:7.1.1.9]	193		
+NMLMEHPE_00347			20	K03651	5
+NMLMEHPE_00348			20	K22107	9
+NMLMEHPE_00352	K05845	opuC; osmoprotectant transport system substrate-binding protein	192		
+NMLMEHPE_00353	K00425	cydA; cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]	487		
+NMLMEHPE_00355	K16013	cydD; ATP-binding cassette, subfamily C, bacterial CydD	158	K16014	50
+NMLMEHPE_00356					
+NMLMEHPE_00357	K01869	LARS, leuS; leucyl-tRNA synthetase [EC:6.1.1.4]	718		
+NMLMEHPE_00360			12	K02340	7
+NMLMEHPE_00361	K02968	RP-S20, rpsT; small subunit ribosomal protein S20	81		
+NMLMEHPE_00363	K03596	lepA; GTP-binding protein LepA	897		
+NMLMEHPE_00365			31	K01869	3
+NMLMEHPE_00369	K03705	hrcA; heat-inducible transcriptional repressor	326		
+NMLMEHPE_00380			8	K02004	7
+NMLMEHPE_00381	K01649	leuA, IMS; 2-isopropylmalate synthase [EC:2.3.3.13]	700		
+NMLMEHPE_00392	K02316	dnaG; DNA primase [EC:2.7.7.101]	506		
+NMLMEHPE_00393	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	359		
+NMLMEHPE_00406			19	K26937	3
+NMLMEHPE_00414	K00163	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]	1245		
+NMLMEHPE_00419	K00249	ACADM, acd; acyl-CoA dehydrogenase [EC:1.3.8.7]	278		
+NMLMEHPE_00425			351		
+NMLMEHPE_00434	K01114	plc; phospholipase C [EC:3.1.4.3]	468		
+NMLMEHPE_00452	K01092	E3.1.3.25, IMPA, suhB; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	104		
+NMLMEHPE_00457			26	K01236	1
+NMLMEHPE_00471			17	K02453	2
+NMLMEHPE_00478			13	K03590	6
+NMLMEHPE_00479			9	K00148	3
+NMLMEHPE_00505	K02031	ddpD; peptide/nickel transport system ATP-binding protein	225	K13896	87
+	K02032	ddpF; peptide/nickel transport system ATP-binding protein			
+NMLMEHPE_00508			15	K17315	3
+NMLMEHPE_00511	K02029	ABC.PA.P; polar amino acid transport system permease protein	220	K02028/K02029	51
+NMLMEHPE_00514			32	K02170	8
+NMLMEHPE_00523			31	K23237	7
+NMLMEHPE_00524	K07002	RBBP9; serine hydrolase [EC:3.-.-.-]	108		
+NMLMEHPE_00537			22	K01114	2
+NMLMEHPE_00538			103		
+NMLMEHPE_00549	K02470	gyrB; DNA gyrase subunit B [EC:5.6.2.2]	779		
+NMLMEHPE_00592			8	K03646	3
+NMLMEHPE_00596	K02390	flgE; flagellar hook protein FlgE	231		
+NMLMEHPE_00597			24	K21885	16
+NMLMEHPE_00601			28	K10000	2
+NMLMEHPE_00602			278		
+NMLMEHPE_00608			184		
+NMLMEHPE_00612			37	K27502	2
+NMLMEHPE_00619			11	K13038	2
+NMLMEHPE_00627	K00232	E1.3.3.6, ACOX1, ACOX3; acyl-CoA oxidase [EC:1.3.3.6]	54		
+NMLMEHPE_00641			11	K25284	2
+NMLMEHPE_00642			7	K01433	5
+NMLMEHPE_00647			14	K05802	5
+NMLMEHPE_00654			154	K01561	7
+NMLMEHPE_00672			55	K03975	6
+NMLMEHPE_00680			296	K15521	39
+NMLMEHPE_00682			163	K12982	14
+NMLMEHPE_00699	K01868	TARS, thrS; threonyl-tRNA synthetase [EC:6.1.1.3]	901		
+NMLMEHPE_00701	K06215	pdxS, pdx1; pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]	467		
+NMLMEHPE_00711	K01139	spoT; GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]	930		
+NMLMEHPE_00713	K25026	glk; glucokinase [EC:2.7.1.2]	237		
+NMLMEHPE_00714	K01619	deoC, DERA; deoxyribose-phosphate aldolase [EC:4.1.2.4]	196		
+NMLMEHPE_00724	K00766	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]	305		
+NMLMEHPE_00737	K14166	ycnJ; copper transport protein	21		
+NMLMEHPE_00738					
+NMLMEHPE_00743			175		
+NMLMEHPE_00746	K06199	crcB, FEX; fluoride exporter	57		
+NMLMEHPE_00751	K21481	mhuD; heme oxygenase (mycobilin-producing) [EC:1.14.99.57]	115		
+NMLMEHPE_00752			312		
+NMLMEHPE_00753			7	K11065	4
+NMLMEHPE_00774			14	K03665	3
+NMLMEHPE_00775			13	K00390	2
+NMLMEHPE_00781			11	K05594	4
+NMLMEHPE_00782			1163		
+NMLMEHPE_00814			36	K05799	11
+NMLMEHPE_00816					
+NMLMEHPE_00827	K16148	glgM; alpha-maltose-1-phosphate synthase [EC:2.4.1.342]	367		
+NMLMEHPE_00828	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	457		
+NMLMEHPE_00834			669		
+NMLMEHPE_00837	K09013	sufC; Fe-S cluster assembly ATP-binding protein	382		
+NMLMEHPE_00842	K02257	COX10, ctaB, cyoE; heme o synthase [EC:2.5.1.141]	317		
+NMLMEHPE_00845	K01810	GPI, pgi; glucose-6-phosphate isomerase [EC:5.3.1.9]	95	K13810	43
+NMLMEHPE_00847			269		
+NMLMEHPE_00854	K00134	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]	457		
+NMLMEHPE_00855	K09762	whiA; cell division protein WhiA	387		
+NMLMEHPE_00857	K03703	uvrC; excinuclease ABC subunit C	651		
+NMLMEHPE_00868	K02335	polA; DNA polymerase I [EC:2.7.7.7]	723		
+NMLMEHPE_00871	K22010	pdtaR; two-component system, response regulator PdtaR	253		
+NMLMEHPE_00879	K00873	PK, pyk; pyruvate kinase [EC:2.7.1.40]	549		
+NMLMEHPE_00882	K00265	gltB; glutamate synthase (NADPH) large chain [EC:1.4.1.13]	1891		
+NMLMEHPE_00901	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:5.6.2.4]	367		
+NMLMEHPE_00934	K02519	infB, MTIF2; translation initiation factor IF-2	816		
+NMLMEHPE_00937	K03526	gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]	562		
+NMLMEHPE_00946			23	K21075	3
+NMLMEHPE_00955	K09861	K09861; uncharacterized protein	105		
+NMLMEHPE_00956	K02114	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon	54		
+NMLMEHPE_00959	K02111	ATPF1A, atpA; F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1]	778		
+NMLMEHPE_00969	K02835	prfA, MTRF1, MRF1; peptide chain release factor 1	423		
+NMLMEHPE_00975					
+NMLMEHPE_00978			10	K21929	3
+NMLMEHPE_00983			392		
+NMLMEHPE_00985	K01265	map; methionyl aminopeptidase [EC:3.4.11.18]	295		
+NMLMEHPE_01005			15	K19235	5
+NMLMEHPE_01018			27	K11617	3
+NMLMEHPE_01019			11	K18459	2
+NMLMEHPE_01020			29	K07692	3
+NMLMEHPE_01022			14	K00335	3
+NMLMEHPE_01033	K01616	kgd; multifunctional 2-oxoglutarate metabolism enzyme [EC:2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61]	1373		
+NMLMEHPE_01043			277		
+NMLMEHPE_01054	K09812	ftsE; cell division transport system ATP-binding protein	284		
+NMLMEHPE_01065	K01214	ISA, treX; isoamylase [EC:3.2.1.68]	448		
+NMLMEHPE_01111	K10563	mutM, fpg; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]	268		
+NMLMEHPE_01136	K10238	thuG, sugB; trehalose/maltose transport system permease protein	260		
+NMLMEHPE_01139			65	K16556	3
+NMLMEHPE_01144			44	K08256	11
+NMLMEHPE_01149			150		
+NMLMEHPE_01157			253		
+NMLMEHPE_01171	K03284	corA; magnesium transporter	204		
+NMLMEHPE_01191	K03070	secA; preprotein translocase subunit SecA [EC:7.4.2.8]	1111		
+NMLMEHPE_01192			156		
+NMLMEHPE_01194			24	K07077	3
+NMLMEHPE_01198			11	K03733	2
+NMLMEHPE_01200	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	393		
+NMLMEHPE_01203			28	K01556	2
+NMLMEHPE_01206			9	K00172	4
+NMLMEHPE_01231	K01710	rfbB, rmlB, rffG; dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	411		
+NMLMEHPE_01243			11	K08191	3
+NMLMEHPE_01247			14	K16710	10
+NMLMEHPE_01255			13	K07795	2
+NMLMEHPE_01256			25	K09970	2
+NMLMEHPE_01257	K07686	uhpA; two-component system, NarL family, uhpT operon response regulator UhpA	13		
+NMLMEHPE_01273					
+NMLMEHPE_01277	K00239	sdhA, frdA; succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]	839		
+NMLMEHPE_01283			132	K00344	23
+NMLMEHPE_01315	K01895	ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]	843		
+NMLMEHPE_01321			35	K07778	8
+NMLMEHPE_01330	K00133	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	451		
+NMLMEHPE_01332	K06187	recR; recombination protein RecR	295		
+NMLMEHPE_01355			135		
+NMLMEHPE_01364	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein	192	K24949	20
+NMLMEHPE_01370			24	K00010	2
+NMLMEHPE_01371			244		
+NMLMEHPE_01380	K00075	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	287		
+NMLMEHPE_01391	K06131	clsA_B; cardiolipin synthase A/B [EC:2.7.8.-]	279		
+NMLMEHPE_01392			13	K00140	2
+NMLMEHPE_01418			61	K07219	9
+NMLMEHPE_01428	K01669	phr, PHR1; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	411		
+NMLMEHPE_01435			33	K02529	27
+NMLMEHPE_01436			369		
+NMLMEHPE_01437			53	K03577	3
+NMLMEHPE_01478			21	K00334	2
+NMLMEHPE_01479			19	K05834	3
+NMLMEHPE_01486			142		
+NMLMEHPE_01487			65	K23466	7
+NMLMEHPE_01505	K00839	pucG; (S)-ureidoglycine---glyoxylate transaminase [EC:2.6.1.112]	509		
+NMLMEHPE_01508	K03457	TC.NCS1; nucleobase:cation symporter-1, NCS1 family	587		
+NMLMEHPE_01518			59	K14981	3
+NMLMEHPE_01524	K04488	iscU, nifU; nitrogen fixation protein NifU and related proteins	122		
+NMLMEHPE_01531	K00259	ald; alanine dehydrogenase [EC:1.4.1.1]	449		
+NMLMEHPE_01578			12	K05570	1
+NMLMEHPE_01579			38	K04567	10
+NMLMEHPE_01580			102	K06999	8
+NMLMEHPE_01581			150		
+NMLMEHPE_01582			108		
+NMLMEHPE_01596			6	K00153	6
+NMLMEHPE_01597			122	K03615	4
+NMLMEHPE_01610	K09955	K09955; uncharacterized protein	290	K18205	66
+NMLMEHPE_01611	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	21		
+NMLMEHPE_01638	K23188	fepC, fagC, cchE, desF; iron-siderophore transport system ATP-binding protein [EC:7.2.2.17 7.2.2.-]	213	K25130	54
+NMLMEHPE_01647			188		
+NMLMEHPE_01649			12	K00663	2
+NMLMEHPE_01650	K00045	mtlK, MAN; mannitol 2-dehydrogenase [EC:1.1.1.67]	470		
+NMLMEHPE_01656			10	K01070	3
+NMLMEHPE_01665	K00036	G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]	266		
+NMLMEHPE_01673			102		
+NMLMEHPE_01674			26	K09017	3
+NMLMEHPE_01677	K03924	moxR; MoxR-like ATPase [EC:3.6.3.-]	325		
+NMLMEHPE_01678			220		
+NMLMEHPE_01691			215		
+NMLMEHPE_01695			55		
+NMLMEHPE_01732	K01874	MARS, metG; methionyl-tRNA synthetase [EC:6.1.1.10]	506		
+NMLMEHPE_01736			414		
+NMLMEHPE_01737	K01011	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	129		
+NMLMEHPE_01741	K03578	hrpA; ATP-dependent RNA helicase HrpA [EC:5.6.2.6]	1227		
+NMLMEHPE_01751			15	K00239	2
+NMLMEHPE_01753			15	K07483	2
+NMLMEHPE_01772	K00265	gltB; glutamate synthase (NADPH) large chain [EC:1.4.1.13]	1093	K00284	48
+NMLMEHPE_01773	K00380	cysJ; sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	482		
+NMLMEHPE_01786	K04063	osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]	159		
+NMLMEHPE_01802			16	K13285	3
+NMLMEHPE_01809			79	K20276	69
+NMLMEHPE_01825	K10441	rbsA; ribose transport system ATP-binding protein [EC:7.5.2.7]	300		
+NMLMEHPE_01827	K09018	rutA; pyrimidine oxygenase [EC:1.14.99.46]	475		
+NMLMEHPE_01843			192	K03292	6
+NMLMEHPE_01857			10	K13788	10
+NMLMEHPE_01858			20	K20276	3
+NMLMEHPE_01860	K02040	pstS; phosphate transport system substrate-binding protein	211		
+NMLMEHPE_01861	K02038	pstA; phosphate transport system permease protein	218		
+NMLMEHPE_01890			401		
+NMLMEHPE_01893			8	K04079	2
+NMLMEHPE_01894			132		
+NMLMEHPE_01901			12	K06901	2
+NMLMEHPE_01907			26	K23535	2
+NMLMEHPE_01913			8	K06156	7
+NMLMEHPE_01914			963		
+NMLMEHPE_01916	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	524		
+NMLMEHPE_01917			58	K16137	4
+NMLMEHPE_01921			139	K08195	5
+NMLMEHPE_01942	K01866	YARS, tyrS; tyrosyl-tRNA synthetase [EC:6.1.1.1]	455		
+NMLMEHPE_01950	K00145	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	372		
+NMLMEHPE_01952	K01889	FARSA, pheS; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	400		
+NMLMEHPE_01953	K03437	spoU; RNA methyltransferase, TrmH family	202		
+NMLMEHPE_01961			326		
+NMLMEHPE_01965			10	K01023	3
+NMLMEHPE_01984	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	148	K23059	6
+NMLMEHPE_01987	K12960	mtaD; 5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	70		
+NMLMEHPE_01994			13	K01998	4
+NMLMEHPE_02011	K27877	pbfD; 2-(methylaminoethyl)phosphonate oxidase [EC:1.5.3.27]	19		
+NMLMEHPE_02014	K02044	phnD; phosphonate transport system substrate-binding protein	104		
+NMLMEHPE_02015			105		
+NMLMEHPE_02060	K06980	ygfZ; tRNA-modifying protein YgfZ	230		
+NMLMEHPE_02065	K15520	mshD; mycothiol synthase [EC:2.3.1.189]	138		
+NMLMEHPE_02067	K00937	ppk1; polyphosphate kinase [EC:2.7.4.1]	836		
+NMLMEHPE_02083	K00849	galK; galactokinase [EC:2.7.1.6]	315		
+NMLMEHPE_02084			10	K02238	2
+NMLMEHPE_02086	K00600	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]	589		
+NMLMEHPE_02099			494		
+NMLMEHPE_02106	K02053	ABC.SP.P; putative spermidine/putrescine transport system permease protein	21	K02011	6
+NMLMEHPE_02107	K02054	ABC.SP.P1; putative spermidine/putrescine transport system permease protein	203		
+NMLMEHPE_02108	K02055	ABC.SP.S; putative spermidine/putrescine transport system substrate-binding protein	236		
+NMLMEHPE_02116	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	182	K15770	20
+NMLMEHPE_02117			160		
+NMLMEHPE_02119	K06186	bamE, smpA; outer membrane protein assembly factor BamE	10		
+NMLMEHPE_02121			13	K02483	2
+NMLMEHPE_02129	K00059	fabG, OAR1; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	137		
+NMLMEHPE_02134	K06147	ABCB-BAC; ATP-binding cassette, subfamily B, bacterial	430	K18887	29
+NMLMEHPE_02135	K00602	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	601		
+NMLMEHPE_02157			19	K03838	5
+NMLMEHPE_02161			190		
+NMLMEHPE_02179	K05786	rarD; chloramphenicol-sensitive protein RarD	241		
+NMLMEHPE_02181			229		
+NMLMEHPE_02182			11	K07387	4
+NMLMEHPE_02203	K06173	truA, PUS1; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]	237		
+NMLMEHPE_02204					
+NMLMEHPE_02206			329		
+NMLMEHPE_02208	K02879	RP-L17, MRPL17, rplQ; large subunit ribosomal protein L17	171		
+NMLMEHPE_02211	K02952	RP-S13, rpsM; small subunit ribosomal protein S13	200		
+NMLMEHPE_02214			176		
+NMLMEHPE_02229	K02878	RP-L16, MRPL16, rplP; large subunit ribosomal protein L16	248		
+NMLMEHPE_02260	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	1684		
+NMLMEHPE_02295	K05520	yhbO; deglycase [EC:3.5.1.124]	174		
+NMLMEHPE_02296	K19270	hxpA; mannitol-1-/sugar-/sorbitol-6-phosphatase [EC:3.1.3.22 3.1.3.23 3.1.3.50]	164		
+NMLMEHPE_02312	K13831	hps-phi; 3-hexulose-6-phosphate synthase / 6-phospho-3-hexuloisomerase [EC:4.1.2.43 5.3.1.27]	17	K08093	16
+NMLMEHPE_02350	K00014	aroE; shikimate dehydrogenase [EC:1.1.1.25]	295		
+NMLMEHPE_02353			20	K06959	3
+NMLMEHPE_02356	K02004	ABC.CD.P; putative ABC transport system permease protein	46	K24948	13
+NMLMEHPE_02385			209		
+NMLMEHPE_02396			246		
+NMLMEHPE_02418			13	K00930	2
+NMLMEHPE_02421			142		
+NMLMEHPE_02424			11	K02622	4
+NMLMEHPE_02430			12	K02424	1
+NMLMEHPE_02431			11	K06143	2
+NMLMEHPE_02432	K02314	dnaB; replicative DNA helicase [EC:5.6.2.3]	543		
+NMLMEHPE_02433	K02939	RP-L9, MRPL9, rplI; large subunit ribosomal protein L9	158		
+NMLMEHPE_02462			6	K10108	5
+NMLMEHPE_02483	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	462		
+NMLMEHPE_02497	K11070	potC; spermidine/putrescine transport system permease protein	140	K11069/K11070	16
+NMLMEHPE_02503			149		
+NMLMEHPE_02504			86		
+NMLMEHPE_02505			27	K02356	2
+NMLMEHPE_02509					
+NMLMEHPE_02511	K19267	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	137		
+NMLMEHPE_02512			65	K22108	5
+NMLMEHPE_02529	K01214	ISA, treX; isoamylase [EC:3.2.1.68]	687		
+NMLMEHPE_02550	K10974	codB; cytosine permease	300		
+NMLMEHPE_02551			469		
+NMLMEHPE_02556			267		
+NMLMEHPE_02560			13	K00425	5
+NMLMEHPE_02576			18	K03574	12
+NMLMEHPE_02577	K02492	hemA; glutamyl-tRNA reductase [EC:1.2.1.70]	164		
+NMLMEHPE_02592			61	K11475	3
+NMLMEHPE_02617	K00819	rocD, OAT; ornithine--oxo-acid transaminase [EC:2.6.1.13]	475		
+NMLMEHPE_02620			273	K15967	31
+NMLMEHPE_02627	K04075	tilS, mesJ; tRNA(Ile)-lysidine synthase [EC:6.3.4.19]	229		
+NMLMEHPE_02631	K01633	folB; 7,8-dihydroneopterin aldolase/epimerase/oxygenase [EC:4.1.2.25 5.1.99.8 1.13.11.81]	125	K13940	12
+NMLMEHPE_02641	K03086	rpoD; RNA polymerase primary sigma factor	325		
+NMLMEHPE_02642	K00858	ppnK, NADK; NAD+ kinase [EC:2.7.1.23]	131		
+NMLMEHPE_02645			17	K03827	2
+NMLMEHPE_02649			116	K26275	3
+NMLMEHPE_02662	K01841	pepM; phosphoenolpyruvate phosphomutase [EC:5.4.2.9]	22	K03417	13
+NMLMEHPE_02664	K09459	E4.1.1.82; phosphonopyruvate decarboxylase [EC:4.1.1.82]	18	K06034	9
+NMLMEHPE_02665	K01953	asnB, ASNS; asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	307		
+NMLMEHPE_02670			11	K07789	3
+NMLMEHPE_02671	K01495	GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]	150		
+NMLMEHPE_02708	K01457	atzF; allophanate hydrolase [EC:3.5.1.54]	467		
+NMLMEHPE_02735			20	K00219	4
+NMLMEHPE_02745	K02034	ABC.PE.P1; peptide/nickel transport system permease protein	269		
+NMLMEHPE_02746	K02031	ddpD; peptide/nickel transport system ATP-binding protein	217	K13892	121
+	K02032	ddpF; peptide/nickel transport system ATP-binding protein			
+NMLMEHPE_02747	K25026	glk; glucokinase [EC:2.7.1.2]	152		
+NMLMEHPE_02750			29	K02040	3
+NMLMEHPE_02765			31	K02033	2
+NMLMEHPE_02768			170		
+NMLMEHPE_02769			12	K15526	2
+NMLMEHPE_02772			17	K01096	9
+NMLMEHPE_02798	K06994	K06994; putative drug exporter of the RND superfamily	496	K07003	26
+NMLMEHPE_02799			22	K23466	4
+NMLMEHPE_02805			13	K16961	3
+NMLMEHPE_02809	K04063	osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]	136		
+NMLMEHPE_02810			36		
+NMLMEHPE_02830			17	K03043	3
+NMLMEHPE_02840			254	K03446	21
+NMLMEHPE_02846			14	K03784	5
+NMLMEHPE_02849	K01971	ligD; bifunctional non-homologous end joining protein LigD [EC:6.5.1.1]	485		
+NMLMEHPE_02850			8	K04043	3
+NMLMEHPE_02851			13	K00380	2
+NMLMEHPE_02863			141	K28632	17
+NMLMEHPE_02867	K04047	dps; starvation-inducible DNA-binding protein	128		
+NMLMEHPE_02868			15	K11927	7
+NMLMEHPE_02881	K07071	K07071; uncharacterized protein	135		
+NMLMEHPE_02887	K25307	wzb, etp; low molecular weight protein-tyrosine phosphatase [EC:3.1.3.48]	131		
+NMLMEHPE_02896					
+NMLMEHPE_02897	K02777	crr; sugar PTS system EIIA component [EC:2.7.1.-]	144		
+NMLMEHPE_02899	K02804	nagE; N-acetylglucosamine PTS system EIICBA or EIICB component [EC:2.7.1.193]	427		
+NMLMEHPE_02907	K02913	RP-L33, MRPL33, rpmG; large subunit ribosomal protein L33	82		
+NMLMEHPE_02911			158	K15255	84
+NMLMEHPE_02912			11	K06971	2
+NMLMEHPE_02922	K00865	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]	169		
+NMLMEHPE_02923					
+NMLMEHPE_02944			13	K23155	10
+NMLMEHPE_02964	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	212		
+NMLMEHPE_02979			142		
+NMLMEHPE_02986			18	K20276	10
+NMLMEHPE_02988	K06221	dkgA; 2,5-diketo-D-gluconate reductase A [EC:1.1.1.346]	282		
+NMLMEHPE_02991			244		
+NMLMEHPE_02994	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	911		
+NMLMEHPE_02997			170	K07649	14
+NMLMEHPE_03003					
+NMLMEHPE_03019			8	K06887	2
+NMLMEHPE_03029	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]	185		
+NMLMEHPE_03030			16	K20276	3
+NMLMEHPE_03035	K02566	nagD; 5'-nucleotidase [EC:3.1.3.5]	345		
+NMLMEHPE_03036			17	K01465	3
+NMLMEHPE_03040	K01421	yhgE; putative membrane protein	331		
+NMLMEHPE_03042			33	K19736	3
+NMLMEHPE_03043			65	K14645	11
+NMLMEHPE_03049			104		
+NMLMEHPE_03065			16	K02414	2
+NMLMEHPE_03069			152	K20276	26
+NMLMEHPE_03071			11	K08307	2
+NMLMEHPE_03091	K07104	catE; catechol 2,3-dioxygenase [EC:1.13.11.2]	179		
+NMLMEHPE_03095			67	K04033	4
+NMLMEHPE_03107	K00764	purF, PPAT; amidophosphoribosyltransferase [EC:2.4.2.14]	611		
+NMLMEHPE_03108	K01933	purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	337		
+NMLMEHPE_03109			27	K00370	3
+NMLMEHPE_03119			340		
+NMLMEHPE_03149			217	K19960	24
+NMLMEHPE_03166	K03750	moeA; molybdopterin molybdotransferase [EC:2.10.1.1]	219		
+NMLMEHPE_03178	K03829	yedL; putative acetyltransferase [EC:2.3.1.-]	103		
+NMLMEHPE_03179			228		
+NMLMEHPE_03204			11	K15553	3
+NMLMEHPE_03206			55	K08281	9
+NMLMEHPE_03215			145		
+NMLMEHPE_03226	K02025	ABC.MS.P; multiple sugar transport system permease protein	114	K10237	15
+NMLMEHPE_03243			57	K07566	2
+NMLMEHPE_03247			316	K24995	28
+NMLMEHPE_03278	K03723	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:5.6.2.4]	1166		
+NMLMEHPE_03297	K18455	mca; mycothiol S-conjugate amidase [EC:3.5.1.115]	286		
+NMLMEHPE_03299	K11068	hlyIII; hemolysin III	211		
+NMLMEHPE_03302	K07175	phoH2; PhoH-like ATPase	585		
+NMLMEHPE_03316			15	K07559	14
+NMLMEHPE_03317	K06867	K06867; uncharacterized protein	16		
+NMLMEHPE_03320	K09760	rmuC; DNA recombination protein RmuC	21		
+NMLMEHPE_03364					
+NMLMEHPE_03366					
+NMLMEHPE_03375			15	K23537	5
+NMLMEHPE_03384			11	K16648	2
+NMLMEHPE_03396	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	346		
+NMLMEHPE_03398			432		
+NMLMEHPE_03399			18	K00688	2
+NMLMEHPE_03402			369		
+NMLMEHPE_03403	K03657	uvrD, pcrA; ATP-dependent DNA helicase UvrD/PcrA [EC:5.6.2.4]	503		
+NMLMEHPE_03435			106	K15125	4
+NMLMEHPE_03436			308		
+NMLMEHPE_03445	K02529	galR; LacI family transcriptional regulator, galactose operon repressor	45		
+NMLMEHPE_03447			9	K02838	6
+NMLMEHPE_03460			512		
+NMLMEHPE_03468			280	K15967	32
+NMLMEHPE_03472			15	K12556	3
+NMLMEHPE_03487			215		
+NMLMEHPE_03489	K13288	orn, REX2, REXO2; oligoribonuclease [EC:3.1.-.-]	230		
+NMLMEHPE_03490	K08221	yitG, ymfD, yfmO; MFS transporter, ACDE family, multidrug resistance protein	268		
+NMLMEHPE_03491			19	K23775	4
+NMLMEHPE_03511	K01256	pepN; aminopeptidase N [EC:3.4.11.2]	817		
+NMLMEHPE_03515	K01808	rpiB; ribose 5-phosphate isomerase B [EC:5.3.1.6]	184		
+NMLMEHPE_03517			162		
+NMLMEHPE_03520			20	K08967	3
+NMLMEHPE_03551	K00433	cpo; non-heme chloroperoxidase [EC:1.11.1.10]	174		
+NMLMEHPE_03552			13	K07566	2
+NMLMEHPE_03561	K01870	IARS, ileS; isoleucyl-tRNA synthetase [EC:6.1.1.5]	1169		
+NMLMEHPE_03566			18	K01812	1
+NMLMEHPE_03567			130		
+NMLMEHPE_03568	K08300	rne; ribonuclease E [EC:3.1.26.12]	603		
+NMLMEHPE_03583			16	K01443	2
