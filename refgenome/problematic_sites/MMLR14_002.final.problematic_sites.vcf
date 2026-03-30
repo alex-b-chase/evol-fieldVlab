@@ -1,0 +1,37 @@
+##fileformat=VCFv4.1
+##FILTER=<ID=PASS,Description="All filters passed">
+##source=breseq_GD2VCF_converterter
+##contig=<ID=contig_0,length=3773875>
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele Frequency">
+##INFO=<ID=AD,Number=1,Type=Float,Description="Allele Depth (avg read count)">
+##INFO=<ID=DP,Number=1,Type=Float,Description="Total Depth (avg read count)">
+##bcftools_viewVersion=1.9+htslib-1.9
+##bcftools_viewCommand=view -h merged.vcf; Date=Wed Jul  3 09:42:31 2024
+##bcftools_normVersion=1.9+htslib-1.9
+##bcftools_normCommand=norm -D; Date=Wed Jul  3 09:42:52 2024
+##bcftools_annotateVersion=1.9+htslib-1.9
+##bcftools_annotateCommand=annotate -x FORMAT /lustre/work/client/users/abchase/soil/curto/curtoWarm/ancestral-seqs/breseq/MMLR14_002/MMLR14_002.final.breseq.vcf; Date=Wed Jul  3 10:24:23 2024
+##INFO=<ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+##bcftools_viewCommand=view --samples [^]P001,P002,P003,P004,P005,P006,P007,P008,P009,P010,P011,P012,P013,P014,P015,P016,P213 --force-samples; Date=Wed Jul  3 10:24:23 2024
+##bcftools_filterVersion=1.9+htslib-1.9
+##bcftools_filterCommand=filter -Ov -e 'QUAL<500 || INFO/DP<50'; Date=Wed Jul  3 10:24:23 2024
+##bcftools_viewCommand=view -h merged.vcf; Date=Wed Jul  3 10:24:23 2024
+##bcftools_normCommand=norm -d none; Date=Wed Jul  3 10:24:24 2024
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+contig_0	157728	.	G	GCC	1344.01	PASS	AC=1;AF=1;AN=1;BaseQRankSum=-1.394;DP=84;FS=0;MLEAC=1;MLEAF=1;MQ=59.65;MQRankSum=0;QD=29.22;ReadPosRankSum=-2.204;SOR=2.67
+contig_0	250460	.	A	AC	1641.01	PASS	AC=1;AF=1;AN=1;BaseQRankSum=2.145;DP=107;FS=0;MLEAC=1;MLEAF=1;MQ=59.96;MQRankSum=0;QD=17.09;ReadPosRankSum=-2.478;SOR=5.464
+contig_0	1132352	.	GC	G	1964.01	PASS	AC=1;AF=1;AN=1;BaseQRankSum=-5.128;DP=115;FS=167.32;MLEAC=1;MLEAF=1;MQ=59.72;MQRankSum=-1.39;QD=22.07;ReadPosRankSum=-6.586;SOR=8.468
+contig_0	1132352	.	GCGCC	G	2289.01	PASS	AC=1;AF=1;AN=1;BaseQRankSum=-3.311;DP=77;FS=53.025;MLEAC=1;MLEAF=1;MQ=59.58;MQRankSum=-0.902;QD=33.17;ReadPosRankSum=-2.839;SOR=8.254
+contig_0	1132354	.	GCC	G	1918.01	PASS	AC=1;AF=1;AN=1;BaseQRankSum=-5.141;DP=111;FS=159.697;MLEAC=1;MLEAF=1;MQ=59.71;MQRankSum=-1.422;QD=21.31;ReadPosRankSum=-6.233;SOR=8.468
+contig_0	1132358	.	GACCC	G	1307.01	PASS	AC=1;AF=1;AN=1;BaseQRankSum=-4.295;DP=97;FS=105.755;MLEAC=1;MLEAF=1;MQ=59.67;MQRankSum=-1.838;QD=13.47;ReadPosRankSum=-5.517;SOR=8.318
+contig_0	1132365	.	T	G	1619.04	PASS	AC=1;AF=1;AN=1;BaseQRankSum=5.122;DP=66;FS=29.935;MLEAC=1;MLEAF=1;MQ=59.51;MQRankSum=-1.261;QD=26.98;ReadPosRankSum=-4.023;SOR=6.609
+contig_0	1292152	.	CG	C	1475.01	PASS	AC=1;AF=1;AN=1;DP=50;FS=0;MLEAC=1;MLEAF=1;MQ=60;QD=30.73;SOR=2.608
+contig_0	1292152	.	CGGGGGGGAAC	CGGGGGGAAC	20759.6	PASS	AB=0;ABP=0;AC=10;AF=1;AN=10;AO=662;CIGAR=1M1D9M;DP=665;DPB=604.818;DPRA=0;EPP=249.272;EPPR=0;GTI=0;LEN=1;MEANALT=1.4;MQM=57.6647;MQMR=0;NS=5;NUMALT=1;ODDS=107.05;PAIRED=0.910876;PAIREDR=0;PAO=2.5;PQA=92.5;PQR=92.5;PRO=2.5;QA=23871;QR=0;RO=0;RPL=356;RPP=11.2107;RPPR=0;RPR=306;RUN=1;SAF=490;SAP=334.714;SAR=172;SRF=0;SRP=0;SRR=0;TYPE=del;technology.illumina=1
+contig_0	1292158	.	GG	G	1188.6	PASS	AF=1;AD=226;DP=226;AC=0;AN=0
+contig_0	1292180	.	CG	C	1361.01	PASS	AC=1;AF=1;AN=1;DP=52;FS=0;MLEAC=1;MLEAF=1;MQ=60;QD=30.93;SOR=5.33
+contig_0	1292180	.	CGGGGGGGTGC	CGGGGGGTGC	24850.8	PASS	AB=0;ABP=0;AC=10;AF=1;AN=10;AO=836;CIGAR=1M1D9M;DP=841;DPB=764.273;DPRA=0;EPP=115.387;EPPR=0;GTI=0;LEN=1;MEANALT=1.6;MQM=58.0849;MQMR=0;NS=5;NUMALT=1;ODDS=125.382;PAIRED=0.937799;PAIREDR=0;PAO=0;PQA=0;PQR=0;PRO=0;QA=30139;QR=0;RO=0;RPL=280;RPP=200.874;RPPR=0;RPR=556;RUN=1;SAF=798;SAP=1503.3;SAR=38;SRF=0;SRP=0;SRR=0;TYPE=del;technology.illumina=1
+contig_0	1292186	.	GG	G	1060	PASS	AF=1;AD=197;DP=197;AC=0;AN=0
+contig_0	2045368	.	A	ACGGACGGTCGGACGAACCACCACGGGC	12805	PASS	AC=1;AF=1;AN=1;DP=509;FS=0;MLEAC=1;MLEAF=1;MQ=58.68;QD=32.46;SOR=1.108
+contig_0	2224384	.	G	A	1071.7	PASS	AF=1;AD=273;DP=273;AC=0;AN=0
+contig_0	2812955	.	GCGGACCGGCGA	G	1514.01	PASS	AC=1;AF=1;AN=1;BaseQRankSum=6.63;DP=120;FS=90.349;MLEAC=1;MLEAF=1;MQ=60;MQRankSum=0;QD=19.41;ReadPosRankSum=-3.833;SOR=8.121
